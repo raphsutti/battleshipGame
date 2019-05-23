@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Input
+comment0.text=\r\n\ Input\ class\r\n\ Accepts\ input\ for\ String\ or\ integer\r\n\r\n\ @author\ Raphael\ Suttiyotin\r\n\ @version\ (17/10/2018)\r\n
+comment1.params=
+comment1.target=Input()
+comment2.params=subject
+comment2.target=int\ acceptInputInt(java.lang.String)
+comment2.text=\ \r\n\ Obtain\ input\ of\ type\ integer\ from\ user\r\n\ @param\ subject\ Subject\ for\ prompt\r\n\ @return\ integer\ from\ user\r\n
+comment3.params=subject
+comment3.target=java.lang.String\ acceptInputString(java.lang.String)
+comment3.text=\ \r\n\ Obtain\ input\ of\ type\ String\ from\ user\r\n\ @param\ subject\ Subject\ for\ prompt\r\n\ @return\ String\ from\ user\r\n
+numComments=4

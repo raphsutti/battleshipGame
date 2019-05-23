@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=CoordinateGenerator
+comment0.text=\r\n\ CoordinateGenerator\ class\r\n\ Creates\ random\ number\ beween\ a\ set\ of\ minimum\r\n\ and\ maximum\ values\ (inclusive)\r\n\r\n\ @author\ Raphael\ Neo\ Suttiyotin\r\n\ @version\ 17/10/2018\r\n
+comment1.params=
+comment1.target=CoordinateGenerator()
+comment1.text=\ \r\n\ Default\ constructor\r\n\ Create\ default\ minimum\ and\ maximum\ values\r\n
+comment2.params=
+comment2.target=void\ displayValues()
+comment2.text=\ \r\n\ Display\ minimum\ and\ maximum\ value\r\n
+comment3.params=
+comment3.target=int\ getMinValue()
+comment3.text=\ \r\n\ Return\ minimum\ value\r\n
+comment4.params=
+comment4.target=int\ getMaxValue()
+comment4.text=\ \r\n\ Return\ maximum\ value\r\n
+comment5.params=minimumValue\ maximumValue
+comment5.target=int\ rand(int,\ int)
+comment5.text=\ \r\n\ Generate\ random\ number\ between\ minimum\ and\ maximum\ value\r\n\ @param\ minimumValue\ Minimum\ value\r\n\ @param\ maximumValue\ Maximum\ value\r\n\ @throw\ IllegalStateException\ if\ minimum\ value\ is\ larger\ than\ maximum\ \r\n
+comment6.params=inputMin
+comment6.target=void\ setMinValue(int)
+comment6.text=\ \r\n\ Set\ minimum\ value\r\n\ @param\ inputMin\ Minimum\ value\r\n
+comment7.params=inputMax
+comment7.target=void\ setMaxValue(int)
+comment7.text=\ \r\n\ Set\ maximum\ value\r\n\ @param\ inputMax\ Maximum\ value\r\n
+numComments=8

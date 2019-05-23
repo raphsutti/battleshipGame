@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Validation
+comment0.text=\r\n\ Validation\ class\r\n\r\n\ @author\ Raphael\ Suttiyotin\r\n\ @version\ 17/10/18\r\n
+comment1.params=
+comment1.target=Validation()
+comment2.params=intInput\ minValue\ maxValue
+comment2.target=boolean\ intWithinRange(int,\ int,\ int)
+comment2.text=\ \r\n\ Check\ integer\ within\ min\ and\ max\ value\ inclusive\r\n\ @param\ intInput\ Integer\ value\ to\ be\ checked\r\n\ @param\ minValue\ Minimum\ value\r\n\ @param\ maxValue\ Maximum\ value\r\n\ @return\ true\ if\ within\ range,\ false\ if\ outside\ range\r\n\ @throw\ IllegalStateException\ if\ minimum\ value\ is\ larger\ than\ maximum\ \r\n
+comment3.params=stringInput
+comment3.target=boolean\ stringIsBlank(java.lang.String)
+comment3.text=\ \r\n\ Check\ String\ is\ blank\r\n\ @param\ stringInput\ String\ to\ be\ checked\r\n\ @return\ true\ if\ blank,\ false\ if\ not\ blank\r\n
+comment4.params=stringInput\ minLength\ maxLength
+comment4.target=boolean\ stringLengthWithinRange(java.lang.String,\ int,\ int)
+comment4.text=\ \r\n\ Checks\ string\ if\ within\ min\ and\ max\ length\ inclusive\r\n\ @param\ stringInput\ String\ to\ be\ checked\r\n\ @param\ minLength\ Minimum\ length\ \r\n\ @param\ maxLength\ Maximum\ length\r\n\ @return\ true\ if\ within\ range,\ false\ if\ outside\ range\r\n\ @throw\ IllegalStateException\ if\ minimum\ value\ is\ larger\ than\ maximum\ \r\n
+numComments=5
